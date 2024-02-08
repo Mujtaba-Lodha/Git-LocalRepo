@@ -1,5 +1,5 @@
 # THIS IS MY LOCAL REPO FILE
-<img src = "" alt = "" widht="" height = "">
+<img src = "GitCmd.png" alt = "cmdPic" widht="500px" height = "450px">
 # <BR>
 
 # <h4> Git Cmd First Time Use </h4>
