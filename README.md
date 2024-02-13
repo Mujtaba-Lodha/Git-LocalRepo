@@ -16,6 +16,7 @@
 
 # <h4> this is github localRepo cmd  </h4>
  <ol type = "1">
+  <li>git clone</li>
   <li>git init (localRepo)</li>
   <li>git remote add origin (link) </li>
   <li>git remote -v</li>
