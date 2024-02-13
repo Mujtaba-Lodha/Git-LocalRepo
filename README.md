@@ -1,8 +1,8 @@
 # THIS IS MY LOCAL REPO FILE
 <img src = "GitCmd.png" alt = "cmdPic" widht="500px" height = "450px">
-# <BR>
+ <BR>
 
-# <h4> Git Cmd First Time Use </h4>
+ <h4> Git Cmd First Time Use </h4>
  <ul style = "color : red;">
    <li>git config --global user.name "lodha"</li>  
    <li>git config --global user.email "xxx@gmail.com"</li>  
@@ -12,9 +12,9 @@
    <li>ls -a (view hidden file)</li> 
  </ul>
 
-#<br>
+ <br>
 
-# <h4> this is github localRepo cmd  </h4>
+ <h4> this is github localRepo cmd  </h4>
  <ol type = "1">
   <li>git clone</li>
   <li>git init (localRepo)</li>
@@ -27,9 +27,9 @@
   <li>git push origin --set-upstrem origin main (-u not work then use this type cmd)</li>
  </ol>
 
-#<br>
+ <br>
 
- # <h4> local repo update step step method</h4>
+  <h4> local repo update step step method</h4>
  <ol type = "1">
   <li> git status</li>
   <li> git add . </li>
